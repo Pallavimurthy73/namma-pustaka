@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.nammapustaka.app-debug-85:/xml_data_extraction_rules.xml.flat",
+        "source": "com.nammapustaka.app-main-87:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.nammapustaka.app-debug-85:/xml_backup_rules.xml.flat",
+        "source": "com.nammapustaka.app-main-87:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.nammapustaka.app-debug-85:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.nammapustaka.app-main-87:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nammapustaka.app-debug-85:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.nammapustaka.app-main-87:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nammapustaka.app-debug-85:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.nammapustaka.app-main-87:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nammapustaka.app-debug-85:/xml_file_paths.xml.flat",
+        "source": "com.nammapustaka.app-main-87:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.nammapustaka.app-debug-85:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.nammapustaka.app-main-87:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nammapustaka.app-debug-85:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.nammapustaka.app-main-87:/mipmap-hdpi/ic_launcher.png"
+    }
+]

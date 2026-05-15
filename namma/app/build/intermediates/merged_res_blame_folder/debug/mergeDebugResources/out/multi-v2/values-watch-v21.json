@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nammapustaka.app-mergeDebugResources-83:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\POOJA\\.gradle\\caches\\8.14\\transforms\\3750c646721a4a3ca4a096326c721f23\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
